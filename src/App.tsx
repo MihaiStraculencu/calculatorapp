@@ -125,7 +125,7 @@ function App() {
         </div>
 
         <div className="text-white font-medium font-mono">
-          Email: mail@gmail.com
+          Email:mihaistraculencu83@gmail.com
         </div>
 
         <a
