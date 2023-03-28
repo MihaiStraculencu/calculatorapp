@@ -56,7 +56,6 @@ function App() {
     <div className="flex justify-center h-screen items-center bg-gradient-to-r from-blue-600 to-violet-600 flex-col space-y-10">
       <div className="w-[400px] h-[450px] rounded shadow-2xl bg-gray-900 flex flex-col space-y-6 bg-opacity-90 drop-shadow-lg">
         <div className="text-right mt-5">
-          <div className="text-white">{result}</div>
           <input
             className="w-full h-20 rounded-b-sm text-right bg-slate-900 drop-shadow-lg bg-opacity-90 text-slate-300 font-bold text-5xl pr-6 outline-none"
             value={result}
